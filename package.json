@@ -1,0 +1,10 @@
+{
+  "name": "nestjs-doctor",
+  "version": "0.1.0",
+  "description": "The deterministic NestJS devtool that catches AI mistakes.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
