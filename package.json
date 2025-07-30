@@ -1,6 +1,6 @@
 {
   "name": "nestjs-doctor",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "The deterministic NestJS devtool that catches AI mistakes.",
   "main": "src/index.ts",
   "scripts": {
